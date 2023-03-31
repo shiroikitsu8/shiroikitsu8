@@ -6,4 +6,15 @@
 <div><b>YES YOU CHN PEOPLE</b></div>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/shiroikitsu8"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/shiroikitsu8" /></a></p><br><br>
+<p>
+  <a href="https://ko-fi.com/shiroikitsu8">
+    <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/shiroikitsu8" />
+  </a>
+</p>
+<p>
+  <a href="https://saweria.co/shiroikitsu8">
+    <img align="left" src="https://i.ibb.co/Y083Qp0/kofi3.png" height="50" width="210" alt="https://saweria.co/shiroikitsu8" />
+  </a>
+</p>
+<br><br>
+
