@@ -2,7 +2,9 @@
 
 <div>Public server is only Wangan Midnight Maximum Tune 6 & 6R (for now)</div>
 <br>
-<div>Everything is free. If you pay someone to play their server, then you got scammed</div>
+
+<h3>EVERYTHING IN HERE ARE FREE AND NOT FOR SALE.</h3>
+<div>If you pay someone else for their service or to play their server, then you <b>got scammed</b></div>
 <div><b>YES.. YOU.. CHN & MYS PEOPLE</b></div>
 
 <h3 align="left">Support:</h3>
