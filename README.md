@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shiroi Kitsu</h1>
 
-<div>Public server is only Wangan Midnight Maximum Tune 6 (for now)</div>
+<div>Public server is only Wangan Midnight Maximum Tune 6 & 6R (for now)</div>
 <br>
 <div>Everything is free. If you pay someone to play their server, then you got scammed</div>
 <div><b>YES.. YOU.. CHN & MYS PEOPLE</b></div>
