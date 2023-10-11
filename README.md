@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shiroi Kitsu</h1>
+![image](https://github.com/shiroikitsu8/shiroikitsu8/assets/108461408/cb50ca84-a77e-4d48-a18d-8a58b6e063da)<h1 align="center">Hi 👋, I'm Shiroi Kitsu</h1>
 
 <div>Public server is only Wangan Midnight Maximum Tune 6 & 6R (for now)</div>
 <br>
@@ -7,16 +7,25 @@
 <div>If you pay someone else for their service or to play their server, then you <b>got scammed</b></div>
 <div><b>YES.. YOU.. CHN & MYS PEOPLE</b></div>
 
-<h3 align="left">Support:</h3>
+<h1 align="left">Support:</h1>
+- [INTL]
 <p>
   <a href="https://ko-fi.com/shiroikitsu8">
     <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/shiroikitsu8" />
   </a>
 </p>
+<br><br>
+- [INTL & IDN]
+<p>
+  <a href=[https://saweria.co/shiroikitsu8">
+    <img align="left" src="https://sociabuzz.s3.ap-southeast-1.amazonaws.com//landing-page/img/sociabuzz-logo.png" height="50" width="210" alt="https://saweria.co/shiroikitsu8" />
+  </a>
+</p>
+<br><br>
+- [IDN]
 <p>
   <a href="https://saweria.co/shiroikitsu8">
     <img align="left" src="https://i.ibb.co/Y083Qp0/kofi3.png" height="50" width="210" alt="https://saweria.co/shiroikitsu8" />
   </a>
 </p>
 <br><br>
-
