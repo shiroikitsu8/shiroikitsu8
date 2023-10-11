@@ -1,4 +1,4 @@
-![image](https://github.com/shiroikitsu8/shiroikitsu8/assets/108461408/cb50ca84-a77e-4d48-a18d-8a58b6e063da)<h1 align="center">Hi 👋, I'm Shiroi Kitsu</h1>
+<h1 align="center">Hi 👋, I'm Shiroi Kitsu</h1>
 
 <div>Public server is only Wangan Midnight Maximum Tune 6 & 6R (for now)</div>
 <br>
