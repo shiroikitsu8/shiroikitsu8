@@ -15,13 +15,6 @@
   </a>
 </p>
 <br><br>
-- [INTL & IDN]
-<p>
-  <a href="https://sociabuzz.com/shiroikitsu8/donate">
-    <img align="left" src="https://sociabuzz.s3.ap-southeast-1.amazonaws.com//landing-page/img/sociabuzz-logo.png" height="50" width="210"" />
-  </a>
-</p>
-<br><br>
 - [IDN]
 <p>
   <a href="https://saweria.co/shiroikitsu8">
